@@ -1,0 +1,10 @@
+.BUILD/
+.mbed-os/
+.github/
+.git/
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+mbed-os
